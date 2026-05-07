@@ -84,4 +84,8 @@ notification in real-time without requiring app store installation.
 
 Watch a demo video of the app:
 
-[![Libyan Blood Bank App Demo](https://img.youtube.com/vi/wLcxh0_ZQn4/0.jpg)](https://www.youtube.com/shorts/wLcxh0_ZQn4)
+<div align="center">
+  <a href="https://www.youtube.com/shorts/wLcxh0_ZQn4">
+    <img src="https://img.youtube.com/vi/wLcxh0_ZQn4/0.jpg" alt="Libyan Blood Bank App Demo" />
+  </a>
+</div>
